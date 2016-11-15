@@ -2,6 +2,12 @@
 
 ## Pre-installation
 
+Clone the repo
+
+```bash
+git clone git@github.com:jermspeaks/egghead-polymer.git
+```
+
 We will have to have node and bower installed.
 
 [Node Installation](https://nodejs.org/en/download/package-manager/)  
@@ -13,9 +19,10 @@ On Unix systems, if you have node installed, you can install bower with the foll
 
 ## Installation
 
-`npm install`
-
-`bower install`
+```bash
+npm install  
+bower install
+```
 
 ## Running the app
 
